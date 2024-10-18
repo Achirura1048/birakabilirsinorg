@@ -1,0 +1,52 @@
+body {
+    background-color: black;
+    color: #aec6cf;
+  }
+  
+  .header {
+    text-align: center;
+  }
+  
+  .text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+    width: 75%;
+    margin-top: -30vh;
+    margin-left: 25vh;
+  
+  }
+  
+  .text p{
+    text-align: center;
+    text-shadow: 2px 2px 4px #9AB4BC;
+    font-size: 5vh;
+    font-weight: bold;
+  }
+  
+  .tardis{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -9vh;
+    margin-bottom: 15vh;
+  }
+  
+  .tardis img{
+    height: 50vh;
+  }
+  
+  .himg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+    margin-top: -18vh;
+  }
+  
+  .title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
